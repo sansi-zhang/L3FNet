@@ -99,7 +99,7 @@ Store network test results, pfm files and converted png files.
 
 
 ### Hardware Resource Consump
-<img src='./Figure/hardware_picture/L3FNet'>
+<img src='./Figure/hardware_picture/L3FNet.png' style="max-width: 50%;">
 
 # Citiation
 If you find this work helpful, please consider citing:  
