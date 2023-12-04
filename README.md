@@ -98,8 +98,8 @@ Store network test results, pfm files and converted png files.
 ### Hardware Schematic Diagram
 
 
-
-
+### Hardware Resource Consump
+<img src='./Figure/hardware_picture/L3FNet'>
 
 # Citiation
 If you find this work helpful, please consider citing:  
