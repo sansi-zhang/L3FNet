@@ -96,7 +96,7 @@ Store network test results, pfm files and converted png files.
 - An Ubuntu with more than 16GB of memory (the Vivado tool is faster when used in Ubuntu)
 
 ### Hardware Schematic Diagram
-<img src='./Figure/hardware_picture/top.pdf' style="max-width: 50%;">
+See ```'./Figure/hardware_picture/top.pdf' ```
 
 ### Hardware Resource Consump
 <img src='./Figure/hardware_picture/L3FNet2.png' style="max-width: 50%;">
