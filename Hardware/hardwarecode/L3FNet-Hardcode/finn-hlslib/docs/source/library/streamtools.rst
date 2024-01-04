@@ -28,11 +28,11 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+streamtools.h
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The streamtools.h file collects multiple convenience functions for streams manipulation
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: streamtools.h
 

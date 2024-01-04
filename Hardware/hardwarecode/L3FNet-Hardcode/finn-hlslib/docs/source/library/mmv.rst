@@ -28,11 +28,11 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+mmv.hpp
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The mmv.hpp file collects the description of the class used for Matrix-Multi-Vector compute
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: mmv.hpp
 

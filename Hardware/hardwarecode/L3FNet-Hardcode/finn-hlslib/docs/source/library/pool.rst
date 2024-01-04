@@ -28,11 +28,11 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+pool.hpp
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The pool.hpp file describes the HLS implementation of the classes to be used in the generic pool HLS function  
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: pool.hpp
 

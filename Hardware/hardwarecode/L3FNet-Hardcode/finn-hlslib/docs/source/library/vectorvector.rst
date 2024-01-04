@@ -28,11 +28,17 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+vvau.hpp
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The vvau.hpp file describes the core compute block used for depthwise separable convolution. 
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: vvau.hpp
+
+
+
+
+
+
 

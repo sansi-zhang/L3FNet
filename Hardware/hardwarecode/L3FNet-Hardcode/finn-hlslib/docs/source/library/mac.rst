@@ -28,11 +28,11 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+mac.hpp
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The mac.hpp file collects the definition of the multiply operation used in the matrix-vector block, as well as the used multiplication
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: mac.hpp
 

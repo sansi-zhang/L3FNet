@@ -28,11 +28,15 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+convlayer.h
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The convlayer.h file describes the HLS implementation of the convolutional layer. 
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: convlayer.h
+
+
+
+
 

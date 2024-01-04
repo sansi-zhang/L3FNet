@@ -28,11 +28,15 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+slidingwindow.h
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The slidingwindow.h file describes the HLS implementation of the sliding window unit, implementing the im2col for convolutional layers 
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: slidingwindow.h
+
+
+
+
 

@@ -28,11 +28,14 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+dma.h
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The dma.h file describes the HLS blocks used to communicate between programmable logic and host arm processor in Zynq and Zynq Ultrascale+ devices.  
+
+.. doxygenfile:: dma.h
 
 
-.. doxygenfile:: activations.hpp
+
+
 

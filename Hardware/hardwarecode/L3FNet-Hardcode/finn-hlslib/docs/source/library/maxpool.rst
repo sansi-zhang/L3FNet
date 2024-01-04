@@ -28,11 +28,11 @@
 .. ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====================================
-activations.hpp
+maxpool.h
 ====================================
 
-The activations.hpp file lists a set of classes used to implement the activation part of the mvau. 
+The maxpool.h file describes the HLS implementation of the maxpool layer.  
 
 
-.. doxygenfile:: activations.hpp
+.. doxygenfile:: maxpool.h
 
