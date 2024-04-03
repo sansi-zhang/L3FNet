@@ -97,7 +97,7 @@ Store network test results, pfm files and converted png files.
 
 
 ### Hardware overall
-![hardwareoverall](https://github.com/sansi-zhang/L3FNet/assets/85163357/8e7b271a-c471-4518-9838-dc0ad5722d64)
+<img src='./Figure/paper_picture/hardwareoverall.png'  style="max-width: 50%;">
 
 ### Hardware Schematic Diagram
 See ```'./Figure/hardware_picture/top.pdf' ```
