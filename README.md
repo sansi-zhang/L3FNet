@@ -97,7 +97,7 @@ Store network test results, pfm files and converted png files.
 
 
 ### Hardware overall
-<img src='./Figure/paper_picture/hardwareoverall.png'  style="max-width: 50%;">
+<img src='./Figure/paper_picture/hardwareoverall.jpg'  style="max-width: 50%;">
 
 ### Hardware Schematic Diagram
 See ```'./Figure/hardware_picture/top.pdf' ```
