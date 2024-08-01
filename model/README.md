@@ -11,7 +11,7 @@ It is the setting and combination of some quantitative means in Brevitas library
 - __model_Quant.py__  
   Quantization network: L3FNet
 
-### Six ablation implementation networks
+### Eight ablation implementation networks
 
 #### Four strategies are necessary to prove the ablation network
 
@@ -24,9 +24,13 @@ It is the setting and combination of some quantitative means in Brevitas library
 - __model_None.py__  
   represents the network with 9*9 LF images, using 3D convolutions without DPP operations: Net_None
 
-#### Two strategies proved the effectiveness of the ablation network
+#### Four strategies proved the effectiveness of the ablation network
 
 - __model_Unprune.py__  
   models that have slightly expanded channel and layer numbers for FE, CC, CA stages: Net_Unprune
 - __model_8bit.py__  
   an 8-bit quantized network model: Net_8bit
+- __model_w8bir.py__  
+  only the quantized network whose weights are quantized using 8bit: Net_w8bit
+- __model_w2bit.py__  
+  only the quantized network whose weights are quantized using 2bit: Net_w2bit
