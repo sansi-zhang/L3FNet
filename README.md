@@ -39,10 +39,6 @@ A file containing a series of hardware for the L3FNe and ablation experimental g
 L3FNet implementation files and data preprocessing file on Pytorch.
 - ./jupyter  
 Network execution scripts, as well as some algorithm implementation scripts.
-- ./log  
-Log files that record the accuracy of each verification scenario during verification.
-- ./loss  
-loss Drop image, recording the loss for each validation.
 - ./model  
 Network and regular functions to call.
 - ./param  
