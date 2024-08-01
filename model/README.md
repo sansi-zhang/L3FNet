@@ -30,7 +30,7 @@ It is the setting and combination of some quantitative means in Brevitas library
   models that have slightly expanded channel and layer numbers for FE, CC, CA stages: Net_Unprune
 - __model_8bit.py__  
   an 8-bit quantized network model: Net_8bit
-- __model_w8bir.py__  
+- __model_w8bit.py__  
   only the quantized network whose weights are quantized using 8bit: Net_w8bit
 - __model_w2bit.py__  
   only the quantized network whose weights are quantized using 2bit: Net_w2bit
