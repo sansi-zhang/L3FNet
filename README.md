@@ -1,4 +1,4 @@
-# FPGA-based Low-bit and Low-power Fast LF Image depth estimation
+# FPGA-based Low-bit and Lightweight Fast LF Image depth estimation
 
 <img src="./Figure/paper_picture/Net.jpg" alt="L3FNet Network and Custom Data Flow" style="max-width: 60%;">
 
