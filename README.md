@@ -15,12 +15,63 @@
 
 ### Path structure
 
-- ./dataset  
-  - training  
+
+```
+.
+├── dataset
+│   ├── training
+│   └── validation
+├── Figure
+│   ├── paper_picture
+│   └── hardware_picture
+├── Hardware
+│   ├── L3FNet
+│   │   ├── bit_files
+│   │   ├── hwh_files
+│   │   └── project_code
+│   ├── Net_prune
+│   │   ├── bit_files
+│   │   └── hwh_files
+│   ├── Net_w2bit
+│   │   ├── bit_files
+│   │   └── hwh_files
+│   └── Net_w8bit
+│       ├── bit_files
+│       └── hwh_files
+├── implement
+│   ├── L3FNet_implementation
+│   └── data_preprocessing
+├── jupyter
+│   ├── network_execution_scripts
+│   └── algorithm_implementation_scripts
+├── model
+│   ├── network_functions
+│   └── regular_functions
+├── param
+│   └── checkpoints
+└── Results
+    ├── our_network
+    │   ├── Net_Full
+    │   └── Net_Quant
+    ├── Necessity_analysis
+    │   ├── Net_3D
+    │   ├── Net_99
+    │   └── Net_Undpp
+    └── Performance_improvement_analysis
+        ├── Net_Unprune
+        ├── Net_8bit
+        ├── Net_w2bit
+        ├── Net_w8bit
+        └── Net_prune
+```
+
+<!-- ```
+-- dataset  
+---- training  
   Location of the training data.  
-  - validation  
+---- validation  
   Verify where the data is stored.
-- ./Figure  
+-- Figure  
   - paper_picture  
   Images from the paper.  
   - hardware_picture  
@@ -59,6 +110,7 @@ Store network test results, pfm files and converted png files.
     - Net_w2bit  
     - Net_w8bit  
     - Net_prune  
+``` -->
 
 ### Train
 
