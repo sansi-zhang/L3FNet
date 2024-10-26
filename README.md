@@ -6,7 +6,7 @@
 
 ### Requirement
 
-- PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.8, cuda=11.0.
+- PyTorch 1.13.0, torchvision 0.15.0. The code is tested with python=3.8, cuda=11.0.
 - A GPU with enough memory
 
 ### Datasets
