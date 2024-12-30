@@ -156,14 +156,15 @@ See ```'./Figure/hardware_picture/top.pdf' ```
 # Citiation
 If you find this work helpful, please consider citing:  
 Our paper is currently under submission
-<!-- ``` cite
-@Article{L3FNet,
-    author    = {Jie Li, Chuanlun Zhang, Wenxuan Yang, Heng Li, Xiaoyan Wang, Yiguang Liu},
-    title     = {FPGA-based Low-bit and Low-power Fast LF Image depth estimation},
-    journal   = {}, 
-    year      = {2023},   
+ ``` cite
+@article{L3FNet,
+  title={FPGA-Based Low-Bit and Lightweight Fast Light Field Depth Estimation},
+  author={Li, Jie and Zhang, Chuanlun and Yang, Wenxuan and Li, Heng and Wang, Xiaoyan and Zhao, Chuanjun and Du, Shuangli and Liu, Yiguang},
+  journal={IEEE Transactions on Very Large Scale Integration (VLSI) Systems},
+  year={2024},
+  publisher={IEEE}
 }
-``` -->
+```
 
 # Contact
 Welcome to raise issues or email to Chuanlun Zhang(specialzhangsan@gmail.com or zcl_20000718@163.com) for any question regarding this work
