@@ -155,7 +155,6 @@ See ```'./Figure/hardware_picture/top.pdf' ```
 
 # Citiation
 If you find this work helpful, please consider citing:  
-Our paper is currently under submission
  ``` cite
 @article{L3FNet,
   title={FPGA-Based Low-Bit and Lightweight Fast Light Field Depth Estimation},
